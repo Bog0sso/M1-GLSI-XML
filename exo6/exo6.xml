@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE examen SYSTEM "examen.dtd">
+<!DOCTYPE examen SYSTEM "exo6.dtd">
 <examen coursCode="MGLSI">
     <titre>Examen DSS M1GLSI</titre>
     <date mois="07" annee="2022" />
@@ -25,7 +25,7 @@
                     2.1. Vitesse lumière:3e8 m/s
                 </partie>
                 <partie>
-                    2.2.NAvogadro =6.02x10^23
+                    2.2.Nombre d'Avogadro =6.02x10^23
                 </partie>
                 <partie>
                     2.3.R=6.21

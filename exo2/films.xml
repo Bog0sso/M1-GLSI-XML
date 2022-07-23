@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<films>
+  <film>
+    <titre>The Shawshank Redemption</titre>
+    <duree>2h 22min</duree>
+    <genre>Drama</genre>
+    <realisateur>Frank Darabont</realisateur>
+    <acteurs>
+      <acteur>Tim Robbins</acteur>
+      <acteur>Morgan Freeman</acteur>
+      <acteur>Bob Gunton</acteur>
+    </acteurs>
+    <annee_production>1994</annee_production>
+    <langue_diffusion>English</langue_diffusion>
+    <synopsyse>Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.</synopsyse>
+    <horaires>
+      <horaire>12:30</horaire>
+      <horaire>15:00</horaire>
+      <horaire>17:30</horaire>
+      <horaire>20:00</horaire>
+    </horaires>
+  </film>
+</films>
